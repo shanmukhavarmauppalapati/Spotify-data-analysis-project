@@ -1,2 +1,2 @@
 # Spotify-data-analysis-project
-here the Spotify data analysis project  
+It contains the insights that has been generated from the spotify dataset
