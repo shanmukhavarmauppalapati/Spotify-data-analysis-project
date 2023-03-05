@@ -1,2 +1,2 @@
 # Spotify-data-analysis-project
-It contains the insights that has been generated from the spotify dataset
+Usefull insights have been generated from the spotify dataset makes the clients to grow their businesses
